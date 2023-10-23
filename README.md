@@ -1,0 +1,2 @@
+# mediapipeHandRecognization
+使用谷歌的mediapipe进行手势识别，可进行左右手判别，
